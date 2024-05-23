@@ -1,0 +1,1 @@
+{"description":"It puts the readings in order in case of an error in the automated collation.\r","bindlevel":10,"is_weak":false,"is_colocation":true,"is_transitive":false,"is_generalizable":true,"use_regular":true,"name":"realignment"}

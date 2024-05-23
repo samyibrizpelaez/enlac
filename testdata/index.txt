@@ -1,0 +1,3 @@
+/home/Witness1_frag_Koutloumousiou_2.xml
+/home/Witness2_frag_Parisinus_Graecus_1470.xml
+/home/Witness3_frag_Parisinus_Graecus_1219.xml

@@ -1,0 +1,9 @@
+/home/testdata/Witness1_frag_Koutloumousiou_2.xml
+/home/testdata/Witness2_frag_Parisinus_Graecus_1470.xml
+/home/testdata/Witness3_frag_Parisinus_Graecus_1219.xml
+/home/testdata/out/1-wf/Witness1_frag_Koutloumousiou_2.xml
+/home/testdata/out/1-wf/Witness2_frag_Parisinus_Graecus_1470.xml
+/home/testdata/out/1-wf/Witness3_frag_Parisinus_Graecus_1219.xml
+/home/testdata/out/2-pre/Witness1_frag_Koutloumousiou_2.xml
+/home/testdata/out/2-pre/Witness2_frag_Parisinus_Graecus_1470.xml
+/home/testdata/out/2-pre/Witness3_frag_Parisinus_Graecus_1219.xml

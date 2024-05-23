@@ -15,9 +15,7 @@ services:
 
   enlacpipeline:
     image: unilenlac/pipeline
-    depends_on:
-      - stemmarest
-    # network_mode: host
+    network_mode: host
     volumes:
       - type: bind
         source: .
