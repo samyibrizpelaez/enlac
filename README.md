@@ -40,3 +40,6 @@ docker-compose up
 ### Results
 To begin editing, go to [http://localhost:3000/](http://localhost:3000/).
 To see the files, browse the contents of the subfolder `out/`.
+
+
+collatex-tools-1.8-SNAPSHOT.jar is in reality 1.7.1 renamed as I could not find the 1.8 version.

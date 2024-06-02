@@ -2,12 +2,15 @@ version: '3.2'
 
 services:
   stemmarest:
-    image: stemmarest:latest
+    image: stemmarest
+    container_name: stemmarest
     ports:
-      - 8080:8080
+    # innercontainerport:hostport
+      - 8081:8080
 
   stemmaweb:
-    image: stemmaweb:latest
+    image: stemmaweb
+    container_name: stemmaweb
     ports:
       - 3000:3000
     depends_on:
@@ -16,6 +19,8 @@ services:
   enlacpipeline:
     image: unilenlac/pipeline
     network_mode: host
+    depends_on:
+      - stemmarest
     volumes:
       - type: bind
         source: .
