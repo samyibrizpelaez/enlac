@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEI PUBLIC "TEI" "https://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Don Quixote</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>publisher2</publisher>
+                <pubPlace>place2</pubPlace>
+                <date>2025</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="B">
+                    <msIdentifier>
+                        <country>A country</country>
+                        <settlement>A settlement</settlement>
+                        <repository>A Repository</repository>
+                        <collection>A Foundation</collection>
+                        <idno>2</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc status="approved">
+            <change />
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <p>
+                    <!-- partial content for demo purposes -->
+                    <milestone n="4" /> 
+                    Dans une contrée d’Espagne qu’on appelle la Manche, vivait,
+                    il n’y a pas longtemps, un gentilhomme de ceux qui ont une lance au râtelier,
+                    une vieille rondache, un roussin maigre et quelques chiens de chasse. Un morceau
+                    de viande dans la marmite, plus souvent boeuf que mouton ; une galimafrée le
+                    soir, du reste du dîner ; le vendredi, des lentilles ; des oeufs au lard le
+                    samedi, à la manière d’Espagne, et quelque pigeon de plus les dimanches,
+                    consumaient les trois quarts de son revenu. Le reste était pour la dépense des
+                    habits, qui consistaient en un jupon de beau drap, avec des chausses de velours,
+                    et les mules de même pour les jours de fêtes ; et les autres jours c’était un
+                    bon habit de drap du pays. Il avait chez lui une espèce de gouvernante qui
+                    avait, quoiqu’elle en dît, un peu plus de quarante ans, et une nièce qui n’en
+                    avait pas encore vingt, avec un valet qui servait à la maison et aux champs, qui
+                    pansait le roussin et allait au bois. L’âge de notre gentilhomme approchait de
+                    cinquante ans. Il était d’une complexion robuste et vigoureuse, maigre de visage
+                    et le corps sec et décharné ; fort matineux et grand chasseur. Quelques-uns lui
+                    donnent le surnom de Quixada ou Quesada ; les auteurs qui en ont écrit en
+                    parlant diversement : quoi qu’il en soit, il y a apparence qu’il s’appelait
+                    Quixada mais cela importe peu à l’histoire, pourvu que dans le reste on la
+                    rapporte fidèlement. 
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>
