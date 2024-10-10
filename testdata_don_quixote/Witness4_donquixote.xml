@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEI PUBLIC "TEI" "https://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Acta Barnabae</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>IRSB - Projet FNS « Éditer la littérature apocryphe chrétienne » </publisher>
+                <pubPlace>Lausanne</pubPlace>
+                <date>2017…</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="Z">
+                    <msIdentifier>
+                        <country>France</country>
+                        <settlement>Paris</settlement>
+                        <repository>Bibliothèque nationale de France</repository>
+                        <collection>Grec</collection>
+                        <idno>1219</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc status="approved">
+            <change />
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <p>
+                    <!-- partial content for demo purposes -->
+                    <milestone n="4" />
+                    Dans un lieu de la Manche, duquel le nom je ne veux pas me rappeler, 
+                    il n’y a pas longtemps que vivait, un hidalgo, de ceux qui ont lance au râtelier, 
+                    rondache antique, bidet maigre et lévrier coursier. Un pot de quelque chose, 
+                    plus de vache que de bélier, salpicon la plus part des nuits, 
+                    duelos y quebrantos le samedi, des lentilles le vendredi, 
+                    et quelques pigeonneaux sauvages supplémentaires le dimanche, ils consommaient les trois parties de son
+                    hacienda. Le reste se dépensait en un sayon
+                    de drap fin et des chausses de panne avec leurs pantoufles de même étoffe, 
+                    pour les jours de fête, et un habit de la meilleure serge du pays, 
+                    dont il se faisait honneur les jours de la semaine. 
+                    Il avait chez lui une gouvernante qui passait les quarante ans, 
+                    une nièce qui n’atteignait pas les vingt, et de plus un garçon de ville et de campagne,
+                     qui sellait le bidet aussi bien qu’il maniait la serpette. 
+                     L’âge de notre hidalgo frisait la cinquantaine ; il était de complexion robuste, 
+                     maigre de corps, sec de visage, fort matineux et grand ami de la chasse. 
+                     On a dit qu’il avait le surnom de Quixada ou Quesada, 
+                     car il y a sur ce point quelque divergence entre les auteurs qui en ont écrit, 
+                     bien que les conjectures les plus vraisemblables 
+                     fassent entendre qu’il s’appelait Quijana. 
+                     Mais cela importe peu à notre histoire ; il suffit que, 
+                     dans le récit des faits, on ne s’écarte pas d’un atome de la vérité. 
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

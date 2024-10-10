@@ -7,6 +7,10 @@ services:
     ports:
     # innercontainerport:hostport
       - 8081:8080
+    volumes:
+      - type: bind
+        source: .
+        target: /var/lib/stemmarest
 
   stemmaweb:
     container_name: stemmaweb
